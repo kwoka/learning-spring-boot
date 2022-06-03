@@ -1,0 +1,32 @@
+
+--Data for Teams Table
+INSERT INTO team VALUES (1,"Hawks", "Atlanta");
+INSERT INTO team VALUES (2,"Celtics", "Boston");
+INSERT INTO team VALUES (3,"Brooklyn", "Nets");
+INSERT INTO team VALUES (4,"Charlotte", "Hornets");
+INSERT INTO team VALUES (5,"Chicago", "Bulls");
+INSERT INTO team VALUES (6,"Cleveland", "Cavaliers");
+INSERT INTO team VALUES (7,"Dallas", "Mavericks");
+INSERT INTO team VALUES (8,"Denver", "Nuggets");
+INSERT INTO team VALUES (9,"Detroit", "Pistons");
+INSERT INTO team VALUES (10,"Golden State", "Warriors");
+INSERT INTO team VALUES (11,"Houston", "Rockets");
+INSERT INTO team VALUES (12,"Indiana", "Pacers");
+INSERT INTO team VALUES (13,"Los Angelos", "Clippers");
+INSERT INTO team VALUES (14,"Los Angelos", "Lakers");
+INSERT INTO team VALUES (15,"Mephis", "Grizzlies");
+INSERT INTO team VALUES (16,"Miami", "Heat");
+INSERT INTO team VALUES (17,"Milwaukee", "Bucks");
+INSERT INTO team VALUES (18,"Minnesota", "Timberwolves");
+INSERT INTO team VALUES (19,"New Orleans", "Pelicans");
+INSERT INTO team VALUES (20,"New York", "Knicks");
+INSERT INTO team VALUES (21,"Oklahoma City", "Thunder");
+INSERT INTO team VALUES (22,"Orlando", "Magic");
+INSERT INTO team VALUES (23,"Philadelphia", "76ers");
+INSERT INTO team VALUES (24,"Phoenix", "Suns");
+INSERT INTO team VALUES (25,"Portland", "Trail Blazers");
+INSERT INTO team VALUES (26,"Sacramento", "Kings");
+INSERT INTO team VALUES (27,"San Antonio", "Spurs");
+INSERT INTO team VALUES (28,"Toronto", "Raptors");
+INSERT INTO team VALUES (29,"Utah", "Jazz");
+INSERT INTO team VALUES (30,"Washington", "Wizards");
