@@ -27,12 +27,8 @@ public class TeamService {
     }
 
     public Team getTeamByLocation(String location){
-        Map<String, Team> teamList = new HashMap<>();
-        Iterable<Team> teams = this.teamRepository.findAll();
-        for(Team team : teams) {
-           teamList.put(team.getLocation(),team);
-        }
-        return teamList.get(location);
+        if(this.teamRepository.findTeamByLocation(location).isEmpty()) return null;
+        return this.teamRepository.findTeamByLocation(location).get();
     }
 
 }
